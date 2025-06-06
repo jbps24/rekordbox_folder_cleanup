@@ -1,0 +1,521 @@
+[
+    {
+        "name": "Early Morning Acceleration",
+        "id": "0JCfG8nDSO30YY5kLnOH5i",
+        "uri": "spotify:track:0JCfG8nDSO30YY5kLnOH5i",
+        "artists": [
+            "Chl\u00e4r"
+        ],
+        "album": "Optimized Grooves",
+        "duration_ms": 303630,
+        "track_number": 1,
+        "disc_number": 1,
+        "popularity": 35,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:18Z"
+    },
+    {
+        "name": "Hoppdansi - KUSS Remix",
+        "id": "15PVLg0XHkP1xA9l18Im4u",
+        "uri": "spotify:track:15PVLg0XHkP1xA9l18Im4u",
+        "artists": [
+            "Skorri",
+            "KUSS"
+        ],
+        "album": "Hoppdansi (KUSS Remix)",
+        "duration_ms": 240000,
+        "track_number": 1,
+        "disc_number": 1,
+        "popularity": 35,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Nerv",
+        "id": "4DD8PuvzKP0e7XXMi2cJIa",
+        "uri": "spotify:track:4DD8PuvzKP0e7XXMi2cJIa",
+        "artists": [
+            "Stef Mendesidis"
+        ],
+        "album": "Decima",
+        "duration_ms": 326115,
+        "track_number": 10,
+        "disc_number": 1,
+        "popularity": 15,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Super Septima",
+        "id": "5FSZsu46Q2KCu3sCOjVD2j",
+        "uri": "spotify:track:5FSZsu46Q2KCu3sCOjVD2j",
+        "artists": [
+            "Stef Mendesidis"
+        ],
+        "album": "Decima",
+        "duration_ms": 266357,
+        "track_number": 4,
+        "disc_number": 1,
+        "popularity": 19,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Aquaton",
+        "id": "6y1103vgiSm1p1PnwWgV7J",
+        "uri": "spotify:track:6y1103vgiSm1p1PnwWgV7J",
+        "artists": [
+            "Stef Mendesidis"
+        ],
+        "album": "Decima",
+        "duration_ms": 321214,
+        "track_number": 3,
+        "disc_number": 1,
+        "popularity": 28,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Methodist",
+        "id": "13DqJv37Zxd4cDgBV9bLJN",
+        "uri": "spotify:track:13DqJv37Zxd4cDgBV9bLJN",
+        "artists": [
+            "Stef Mendesidis"
+        ],
+        "album": "Decima",
+        "duration_ms": 337848,
+        "track_number": 2,
+        "disc_number": 1,
+        "popularity": 17,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Minore",
+        "id": "0cHjdEHNNS3zBr8AtIJ5yz",
+        "uri": "spotify:track:0cHjdEHNNS3zBr8AtIJ5yz",
+        "artists": [
+            "Stef Mendesidis"
+        ],
+        "album": "Decima",
+        "duration_ms": 318742,
+        "track_number": 1,
+        "disc_number": 1,
+        "popularity": 26,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Like That",
+        "id": "5ov2w0v7zD1Zr1POyyrlVo",
+        "uri": "spotify:track:5ov2w0v7zD1Zr1POyyrlVo",
+        "artists": [
+            "Crime Partners"
+        ],
+        "album": "Don't Stop - EP",
+        "duration_ms": 312250,
+        "track_number": 4,
+        "disc_number": 1,
+        "popularity": 1,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Cantus in memoriam Benjamin Britten",
+        "id": "1DvvojxrPoGkMWwFHx6ORX",
+        "uri": "spotify:track:1DvvojxrPoGkMWwFHx6ORX",
+        "artists": [
+            "Arvo P\u00e4rt",
+            "Staatsorchester Stuttgart",
+            "Dennis Russell Davies"
+        ],
+        "album": "Arvo P\u00e4rt: Tabula Rasa, Fratres, Cantus in memoriam Benjamin Britten",
+        "duration_ms": 300493,
+        "track_number": 2,
+        "disc_number": 1,
+        "popularity": 40,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "DOPAMINE",
+        "id": "2c68HYmE7DdLuu6ExnPSzK",
+        "uri": "spotify:track:2c68HYmE7DdLuu6ExnPSzK",
+        "artists": [
+            "Weval"
+        ],
+        "album": "DOPAMINE",
+        "duration_ms": 169721,
+        "track_number": 1,
+        "disc_number": 1,
+        "popularity": 50,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "PAXMAN",
+        "id": "20kCJjJqMJrU1TYmj618ox",
+        "uri": "spotify:track:20kCJjJqMJrU1TYmj618ox",
+        "artists": [
+            "Gallegos"
+        ],
+        "album": "Klubnacht 01",
+        "duration_ms": 658039,
+        "track_number": 16,
+        "disc_number": 1,
+        "popularity": 16,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Idiome",
+        "id": "5VF2WTV9u0jXhqE5wGyAr8",
+        "uri": "spotify:track:5VF2WTV9u0jXhqE5wGyAr8",
+        "artists": [
+            "Jinj\u00e9",
+            "Yolanda Wyns"
+        ],
+        "album": "Klubnacht 01",
+        "duration_ms": 435390,
+        "track_number": 15,
+        "disc_number": 1,
+        "popularity": 16,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Submerge",
+        "id": "72aRxS38MGs3wAYrUJS418",
+        "uri": "spotify:track:72aRxS38MGs3wAYrUJS418",
+        "artists": [
+            "Fadi Mohem"
+        ],
+        "album": "Klubnacht 01",
+        "duration_ms": 638731,
+        "track_number": 7,
+        "disc_number": 1,
+        "popularity": 22,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Evaneszenz",
+        "id": "7iouJu6aTVNt8HOf5nMfUA",
+        "uri": "spotify:track:7iouJu6aTVNt8HOf5nMfUA",
+        "artists": [
+            "JakoJako"
+        ],
+        "album": "Klubnacht 01",
+        "duration_ms": 327393,
+        "track_number": 6,
+        "disc_number": 1,
+        "popularity": 22,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Overseas",
+        "id": "0Tdu92DplH4JGvtmxZdcXa",
+        "uri": "spotify:track:0Tdu92DplH4JGvtmxZdcXa",
+        "artists": [
+            "GiGi FM"
+        ],
+        "album": "Klubnacht 01",
+        "duration_ms": 405784,
+        "track_number": 5,
+        "disc_number": 1,
+        "popularity": 23,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Seele",
+        "id": "12SM4JvNxX1h2owcdvsDID",
+        "uri": "spotify:track:12SM4JvNxX1h2owcdvsDID",
+        "artists": [
+            "Altinbas"
+        ],
+        "album": "Klubnacht 01",
+        "duration_ms": 423970,
+        "track_number": 4,
+        "disc_number": 1,
+        "popularity": 23,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Afternoon Calcium",
+        "id": "5QiBUc1aTYMjkUQ4JXlUpp",
+        "uri": "spotify:track:5QiBUc1aTYMjkUQ4JXlUpp",
+        "artists": [
+            "Quelza"
+        ],
+        "album": "Klubnacht 01",
+        "duration_ms": 643344,
+        "track_number": 2,
+        "disc_number": 1,
+        "popularity": 25,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "a thousand shades of green",
+        "id": "46Woth8otsYjXUnKwe5DDZ",
+        "uri": "spotify:track:46Woth8otsYjXUnKwe5DDZ",
+        "artists": [
+            "efdemin"
+        ],
+        "album": "Klubnacht 01",
+        "duration_ms": 203549,
+        "track_number": 1,
+        "disc_number": 1,
+        "popularity": 26,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Catherine",
+        "id": "2EZ2Np4tQHDaRFb0XEbqL5",
+        "uri": "spotify:track:2EZ2Np4tQHDaRFb0XEbqL5",
+        "artists": [
+            "Rival Consoles"
+        ],
+        "album": "Jupiter",
+        "duration_ms": 323115,
+        "track_number": 2,
+        "disc_number": 1,
+        "popularity": 35,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "The Only Shrine I've Seen",
+        "id": "6WakcUkOv27SFg3tlPatV1",
+        "uri": "spotify:track:6WakcUkOv27SFg3tlPatV1",
+        "artists": [
+            "DARKSIDE"
+        ],
+        "album": "Psychic",
+        "duration_ms": 475907,
+        "track_number": 5,
+        "disc_number": 1,
+        "popularity": 34,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Wespennest",
+        "id": "1h9PGvjTU45WnwzXEjqtf8",
+        "uri": "spotify:track:1h9PGvjTU45WnwzXEjqtf8",
+        "artists": [
+            "DJ Koze",
+            "Sophia Kennedy"
+        ],
+        "album": "Wespennest",
+        "duration_ms": 482143,
+        "track_number": 1,
+        "disc_number": 1,
+        "popularity": 0,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Yumyum Rhythm",
+        "id": "79uxRySDatgK9knBTOsFzv",
+        "uri": "spotify:track:79uxRySDatgK9knBTOsFzv",
+        "artists": [
+            "Two Fingers"
+        ],
+        "album": "Nomark Selects, Vol. 1",
+        "duration_ms": 166474,
+        "track_number": 4,
+        "disc_number": 1,
+        "popularity": 22,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Subsurface Current",
+        "id": "5Zr3phygIdCiolhtIPnxLw",
+        "uri": "spotify:track:5Zr3phygIdCiolhtIPnxLw",
+        "artists": [
+            "Christophe Zurfluh"
+        ],
+        "album": "Electro Minimalist Percussion (Underscores Series)",
+        "duration_ms": 138465,
+        "track_number": 23,
+        "disc_number": 1,
+        "popularity": 23,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Horo",
+        "id": "2HMDW7HwP9LWPXElSYMDeB",
+        "uri": "spotify:track:2HMDW7HwP9LWPXElSYMDeB",
+        "artists": [
+            "UVB76"
+        ],
+        "album": "San",
+        "duration_ms": 159816,
+        "track_number": 8,
+        "disc_number": 1,
+        "popularity": 25,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "XTC",
+        "id": "1wYg1Ud13bBAJgKocnm73h",
+        "uri": "spotify:track:1wYg1Ud13bBAJgKocnm73h",
+        "artists": [
+            "DJ Koze"
+        ],
+        "album": "XTC",
+        "duration_ms": 499258,
+        "track_number": 1,
+        "disc_number": 1,
+        "popularity": 0,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Pale Blue Eyes",
+        "id": "4aK4bJInGOV0Skp8uYrWuE",
+        "uri": "spotify:track:4aK4bJInGOV0Skp8uYrWuE",
+        "artists": [
+            "Lucy Rose"
+        ],
+        "album": "Pale Blue Eyes",
+        "duration_ms": 189905,
+        "track_number": 1,
+        "disc_number": 1,
+        "popularity": 58,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Lucky Me",
+        "id": "0NMyHLjn4jfN8IwQ7S7jCC",
+        "uri": "spotify:track:0NMyHLjn4jfN8IwQ7S7jCC",
+        "artists": [
+            "Stimming"
+        ],
+        "album": "Friedrich",
+        "duration_ms": 358363,
+        "track_number": 7,
+        "disc_number": 1,
+        "popularity": 31,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Pulsar 144",
+        "id": "5WNO02RwXVvRRyU0ttd0fQ",
+        "uri": "spotify:track:5WNO02RwXVvRRyU0ttd0fQ",
+        "artists": [
+            "Stimming"
+        ],
+        "album": "Friedrich",
+        "duration_ms": 503893,
+        "track_number": 8,
+        "disc_number": 1,
+        "popularity": 31,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Die Gondel",
+        "id": "65jU76mbVeq9WIfeaTvXuv",
+        "uri": "spotify:track:65jU76mbVeq9WIfeaTvXuv",
+        "artists": [
+            "DJ Koze",
+            "Sophia Kennedy"
+        ],
+        "album": "Music Can Hear Us",
+        "duration_ms": 216727,
+        "track_number": 11,
+        "disc_number": 1,
+        "popularity": 47,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Del Oro",
+        "id": "3YGFZ8rIsAA5zQvvoeCaW0",
+        "uri": "spotify:track:3YGFZ8rIsAA5zQvvoeCaW0",
+        "artists": [
+            "Floating Points"
+        ],
+        "album": "Cascade",
+        "duration_ms": 374122,
+        "track_number": 4,
+        "disc_number": 1,
+        "popularity": 41,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Catherine",
+        "id": "68BmmDmEUqC7Z3gx2gArHJ",
+        "uri": "spotify:track:68BmmDmEUqC7Z3gx2gArHJ",
+        "artists": [
+            "Rival Consoles"
+        ],
+        "album": "Catherine",
+        "duration_ms": 323115,
+        "track_number": 1,
+        "disc_number": 1,
+        "popularity": 45,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    },
+    {
+        "name": "Book of Life - Mixed",
+        "id": "25fF0FTMLSuyPD3w3OcovI",
+        "uri": "spotify:track:25fF0FTMLSuyPD3w3OcovI",
+        "artists": [
+            "Dialog",
+            "Benji"
+        ],
+        "album": "fabric presents Laurent Garnier: On The Way Home (Mixed)",
+        "duration_ms": 200960,
+        "track_number": 5,
+        "disc_number": 1,
+        "popularity": 15,
+        "explicit": false,
+        "preview_url": null,
+        "added_at": "2025-06-03T14:34:44Z"
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "name": "DJ IDs",
+        "id": "6CpdZgqqyrmBYVhBFBN1HP",
+        "owner": "Jakobo",
+        "tracks_total": 32,
+        "uri": "spotify:playlist:6CpdZgqqyrmBYVhBFBN1HP",
+        "selected": true
+    },
+    {
+        "name": "Jakob \u2764\ufe0f\u200d\ud83d\udd25",
+        "id": "0riCwmHAAQsKzyqhGZnNBq",
+        "owner": "Selly",
+        "tracks_total": 28,
+        "uri": "spotify:playlist:0riCwmHAAQsKzyqhGZnNBq",
+        "selected": false
+    },
+    {
+        "name": "Selly",
+        "id": "4GZH21Sy5odH3qIoNbkjdA",
+        "owner": "Jakobo",
+        "tracks_total": 17,
+        "uri": "spotify:playlist:4GZH21Sy5odH3qIoNbkjdA",
+        "selected": false
+    },
+    {
+        "name": "Livity Sound Official Complete Discography playlist",
+        "id": "7nnBWzsxIObg06N0X1MKrS",
+        "owner": "Livity Sound",
+        "tracks_total": 287,
+        "uri": "spotify:playlist:7nnBWzsxIObg06N0X1MKrS",
+        "selected": false
+    },
+    {
+        "name": "Fabio",
+        "id": "5e17Zav0FjXQS06Nt1Eauv",
+        "owner": "Jakobo",
+        "tracks_total": 76,
+        "uri": "spotify:playlist:5e17Zav0FjXQS06Nt1Eauv",
+        "selected": false
+    },
+    {
+        "name": "Inges Wishlist",
+        "id": "755NIU53op9ql7T8h6OKFM",
+        "owner": "Jakobo",
+        "tracks_total": 173,
+        "uri": "spotify:playlist:755NIU53op9ql7T8h6OKFM",
+        "selected": false
+    },
+    {
+        "name": "Christmas Remixes \ud83c\udf85\ud83c\udffc EDM Christmas Songs",
+        "id": "4kavFF58sv3ItBHHeUaeTS",
+        "owner": "Future House Cloud",
+        "tracks_total": 31,
+        "uri": "spotify:playlist:4kavFF58sv3ItBHHeUaeTS",
+        "selected": false
+    },
+    {
+        "name": "Mahler Symphony 1-10",
+        "id": "5YfOB7AzA9nCaSyiGh5acx",
+        "owner": "vanessa_lwy",
+        "tracks_total": 136,
+        "uri": "spotify:playlist:5YfOB7AzA9nCaSyiGh5acx",
+        "selected": false
+    },
+    {
+        "name": "Phobiq",
+        "id": "10lTViN3TbevXy35CQybWD",
+        "owner": "Tobi_B_1980",
+        "tracks_total": 764,
+        "uri": "spotify:playlist:10lTViN3TbevXy35CQybWD",
+        "selected": false
+    },
+    {
+        "name": "TECHNO GROOVE DETROIT",
+        "id": "6BeGxdJ2wSDzYE3OjjpJBk",
+        "owner": "Olivier F",
+        "tracks_total": 1271,
+        "uri": "spotify:playlist:6BeGxdJ2wSDzYE3OjjpJBk",
+        "selected": false
+    },
+    {
+        "name": "BERLIN / DETROIT TECHNO",
+        "id": "5Uay9vXfidOZ6AwxhQUXER",
+        "owner": "Jacob Alexander Wildfong",
+        "tracks_total": 213,
+        "uri": "spotify:playlist:5Uay9vXfidOZ6AwxhQUXER",
+        "selected": false
+    },
+    {
+        "name": "Hard Groove Techno",
+        "id": "3nXDpFs5aY0fHaFKreUryM",
+        "owner": "milligrahams",
+        "tracks_total": 1056,
+        "uri": "spotify:playlist:3nXDpFs5aY0fHaFKreUryM",
+        "selected": false
+    },
+    {
+        "name": "HarD GroovE",
+        "id": "6ocEgMu12HyuSuHg5srFF7",
+        "owner": "Samuel Joesoep",
+        "tracks_total": 200,
+        "uri": "spotify:playlist:6ocEgMu12HyuSuHg5srFF7",
+        "selected": false
+    },
+    {
+        "name": "BERG AUDIO : HEAVIER SIDE ",
+        "id": "2CQFAshlHEYFqiTGQQa6UN",
+        "owner": "Berg Audio ",
+        "tracks_total": 105,
+        "uri": "spotify:playlist:2CQFAshlHEYFqiTGQQa6UN",
+        "selected": false
+    },
+    {
+        "name": "Music is the muse",
+        "id": "3l1n0qkhXhUprJ7j64HsgS",
+        "owner": "denniscruzdj",
+        "tracks_total": 101,
+        "uri": "spotify:playlist:3l1n0qkhXhUprJ7j64HsgS",
+        "selected": false
+    },
+    {
+        "name": "BERG AUDIO : DEEPER SIDE",
+        "id": "6EGBTdmCSGKtXcbdLqG7VO",
+        "owner": "Berg Audio ",
+        "tracks_total": 129,
+        "uri": "spotify:playlist:6EGBTdmCSGKtXcbdLqG7VO",
+        "selected": false
+    },
+    {
+        "name": "Jonas UF",
+        "id": "4To4YDOONSp8zoquICtm0K",
+        "owner": "Jakobo",
+        "tracks_total": 20,
+        "uri": "spotify:playlist:4To4YDOONSp8zoquICtm0K",
+        "selected": false
+    },
+    {
+        "name": "This Is 8bit",
+        "id": "7ehjeKGj3WnH5EZKm7hJ8A",
+        "owner": "8bit Records",
+        "tracks_total": 101,
+        "uri": "spotify:playlist:7ehjeKGj3WnH5EZKm7hJ8A",
+        "selected": false
+    },
+    {
+        "name": "Dachterasse",
+        "id": "6b6dggJ69qltkYzlG6Lqf5",
+        "owner": "Hanna",
+        "tracks_total": 53,
+        "uri": "spotify:playlist:6b6dggJ69qltkYzlG6Lqf5",
+        "selected": false
+    },
+    {
+        "name": "Mix f\u00fcr isi",
+        "id": "2Bf1ews1dXG6AVJTYyYB3X",
+        "owner": "Jakobo",
+        "tracks_total": 50,
+        "uri": "spotify:playlist:2Bf1ews1dXG6AVJTYyYB3X",
+        "selected": false
+    },
+    {
+        "name": "CSD",
+        "id": "3e8KV97iRB2x4n47KT7QUz",
+        "owner": "Jakobo",
+        "tracks_total": 47,
+        "uri": "spotify:playlist:3e8KV97iRB2x4n47KT7QUz",
+        "selected": false
+    },
+    {
+        "name": "Jakobs Personal Diggs (Don't touch)",
+        "id": "2YuoNZsK4ZWF1zJEtOJSID",
+        "owner": "Jakobo",
+        "tracks_total": 32,
+        "uri": "spotify:playlist:2YuoNZsK4ZWF1zJEtOJSID",
+        "selected": false
+    },
+    {
+        "name": "Alternative Hits / Can't sort in",
+        "id": "7du9heTVaYAQGmras6tRfe",
+        "owner": "Jakobo",
+        "tracks_total": 19,
+        "uri": "spotify:playlist:7du9heTVaYAQGmras6tRfe",
+        "selected": false
+    },
+    {
+        "name": "90s and 2000s",
+        "id": "4j5ZPCzrnyybnhNSeRdck1",
+        "owner": "Jakobo",
+        "tracks_total": 13,
+        "uri": "spotify:playlist:4j5ZPCzrnyybnhNSeRdck1",
+        "selected": false
+    },
+    {
+        "name": "Philipps Solidarit\u00e4tsplaylist",
+        "id": "4yEsS39yBuH8NRoBAOf4GP",
+        "owner": "Jakobo",
+        "tracks_total": 47,
+        "uri": "spotify:playlist:4yEsS39yBuH8NRoBAOf4GP",
+        "selected": false
+    },
+    {
+        "name": "Deudschsbrachige sachn",
+        "id": "5i7EY82j4aPkP15AzmFX9W",
+        "owner": "Jakobo",
+        "tracks_total": 48,
+        "uri": "spotify:playlist:5i7EY82j4aPkP15AzmFX9W",
+        "selected": false
+    },
+    {
+        "name": "Straight Party Poppers",
+        "id": "30ICjHtaWgfVL0YGhLIi7E",
+        "owner": "Jakobo",
+        "tracks_total": 52,
+        "uri": "spotify:playlist:30ICjHtaWgfVL0YGhLIi7E",
+        "selected": false
+    },
+    {
+        "name": "Der Hip Hopt Der Korken Popt",
+        "id": "2fW0zTj2kI5zdIPri7E7ha",
+        "owner": "Jakobo",
+        "tracks_total": 38,
+        "uri": "spotify:playlist:2fW0zTj2kI5zdIPri7E7ha",
+        "selected": false
+    },
+    {
+        "name": "Rock ARRRGH",
+        "id": "3uypAkgslsPclSFfYFx1Gn",
+        "owner": "Jakobo",
+        "tracks_total": 61,
+        "uri": "spotify:playlist:3uypAkgslsPclSFfYFx1Gn",
+        "selected": false
+    },
+    {
+        "name": "Late Night Bangerz",
+        "id": "0VqLFR11vtbElpUEa79JJ2",
+        "owner": "Jakobo",
+        "tracks_total": 53,
+        "uri": "spotify:playlist:0VqLFR11vtbElpUEa79JJ2",
+        "selected": false
+    },
+    {
+        "name": "Mainstream",
+        "id": "3bRt2j7ZzMMa93N1vzKGpc",
+        "owner": "Jakobo",
+        "tracks_total": 126,
+        "uri": "spotify:playlist:3bRt2j7ZzMMa93N1vzKGpc",
+        "selected": false
+    },
+    {
+        "name": "Funks and goddamn grooves",
+        "id": "2shLhWzbH8GeZhkKawcwsp",
+        "owner": "Jakobo",
+        "tracks_total": 47,
+        "uri": "spotify:playlist:2shLhWzbH8GeZhkKawcwsp",
+        "selected": false
+    },
+    {
+        "name": "Oldies (RocknRoll Dis Shiat)",
+        "id": "55m6MGqAqAcLehA2OqURQW",
+        "owner": "Jakobo",
+        "tracks_total": 42,
+        "uri": "spotify:playlist:55m6MGqAqAcLehA2OqURQW",
+        "selected": false
+    },
+    {
+        "name": "Early Paartanz and Slows",
+        "id": "1HRreswwyUEtevnJGPwnMO",
+        "owner": "Jakobo",
+        "tracks_total": 44,
+        "uri": "spotify:playlist:1HRreswwyUEtevnJGPwnMO",
+        "selected": false
+    },
+    {
+        "name": "Nora Songwishis",
+        "id": "1ARSFSDuic77pVvsQxuYxR",
+        "owner": "Jakobo",
+        "tracks_total": 42,
+        "uri": "spotify:playlist:1ARSFSDuic77pVvsQxuYxR",
+        "selected": false
+    },
+    {
+        "name": "\u0442\u0440\u0438\u043f (Trip) Recordings",
+        "id": "5fGSANlpdstVKirxAlyFYJ",
+        "owner": "amalgamet",
+        "tracks_total": 404,
+        "uri": "spotify:playlist:5fGSANlpdstVKirxAlyFYJ",
+        "selected": false
+    },
+    {
+        "name": "Rekids New Releases",
+        "id": "0Hgs9Orn8hR0NAyHYw6RaN",
+        "owner": "Rekids",
+        "tracks_total": 688,
+        "uri": "spotify:playlist:0Hgs9Orn8hR0NAyHYw6RaN",
+        "selected": false
+    },
+    {
+        "name": "Hard Fast Acid Techno",
+        "id": "2Ru6eS96m9ogx12H79DQmx",
+        "owner": "adam-heaton.co.uk",
+        "tracks_total": 75,
+        "uri": "spotify:playlist:2Ru6eS96m9ogx12H79DQmx",
+        "selected": false
+    },
+    {
+        "name": "Teurer Wohnen",
+        "id": "2kiwuwYUw6WYGTgob5jIkL",
+        "owner": "muckede",
+        "tracks_total": 7,
+        "uri": "spotify:playlist:2kiwuwYUw6WYGTgob5jIkL",
+        "selected": false
+    },
+    {
+        "name": "Ultra Flair Showcase",
+        "id": "0gGu5SiI1eMe9guJqTPQbu",
+        "owner": "Jakobo",
+        "tracks_total": 10,
+        "uri": "spotify:playlist:0gGu5SiI1eMe9guJqTPQbu",
+        "selected": false
+    },
+    {
+        "name": "In Dub Techno We Trust",
+        "id": "2Wg6ZybHYBT1way29pX4HU",
+        "owner": "mantsche_",
+        "tracks_total": 90,
+        "uri": "spotify:playlist:2Wg6ZybHYBT1way29pX4HU",
+        "selected": false
+    },
+    {
+        "name": "Hannsns und Davids Festl",
+        "id": "5Z2qwXQOaBP8BRpXABB4xV",
+        "owner": "Jakobo",
+        "tracks_total": 435,
+        "uri": "spotify:playlist:5Z2qwXQOaBP8BRpXABB4xV",
+        "selected": false
+    },
+    {
+        "name": "Tropical Sunday Afternoon",
+        "id": "55B3pW2ql0OZngEALPIiiO",
+        "owner": "Johnny",
+        "tracks_total": 29,
+        "uri": "spotify:playlist:55B3pW2ql0OZngEALPIiiO",
+        "selected": false
+    },
+    {
+        "name": "Michls Techno",
+        "id": "4tGtF6OrvXP5FG9he4JvRC",
+        "owner": "Michael.High",
+        "tracks_total": 383,
+        "uri": "spotify:playlist:4tGtF6OrvXP5FG9he4JvRC",
+        "selected": false
+    },
+    {
+        "name": "GH4k ",
+        "id": "1fNHy4sRkPxYl60lXq5IQd",
+        "owner": "Jakobo",
+        "tracks_total": 13,
+        "uri": "spotify:playlist:1fNHy4sRkPxYl60lXq5IQd",
+        "selected": false
+    },
+    {
+        "name": "Pampa Records Official",
+        "id": "5BMEvyyPoWwR3uQ1l3vDA3",
+        "owner": "St_Lau",
+        "tracks_total": 93,
+        "uri": "spotify:playlist:5BMEvyyPoWwR3uQ1l3vDA3",
+        "selected": false
+    },
+    {
+        "name": "Ilian Tape radio",
+        "id": "32nsiQ68zzTqM4RkaiHyuC",
+        "owner": "Augustin Renier",
+        "tracks_total": 174,
+        "uri": "spotify:playlist:32nsiQ68zzTqM4RkaiHyuC",
+        "selected": false
+    },
+    {
+        "name": "Best 2000\u2019s Hip Hop Hits",
+        "id": "0VmmZTMTHafp1zdyHcBmsX",
+        "owner": "Rega Ton",
+        "tracks_total": 376,
+        "uri": "spotify:playlist:0VmmZTMTHafp1zdyHcBmsX",
+        "selected": false
+    },
+    {
+        "name": "2541 Ecken",
+        "id": "0017GVq2KoPnLiuo2xfmTv",
+        "owner": "Jakobo",
+        "tracks_total": 5,
+        "uri": "spotify:playlist:0017GVq2KoPnLiuo2xfmTv",
+        "selected": false
+    },
+    {
+        "name": "Yoshitoshi Recordings",
+        "id": "73IMYQi05DxadCaFd0UbYu",
+        "owner": "Yaro Nikitin",
+        "tracks_total": 520,
+        "uri": "spotify:playlist:73IMYQi05DxadCaFd0UbYu",
+        "selected": false
+    },
+    {
+        "name": "Bedrock",
+        "id": "5u0WNKZVzPk50YnnI525jo",
+        "owner": "Bedrock Records",
+        "tracks_total": 2221,
+        "uri": "spotify:playlist:5u0WNKZVzPk50YnnI525jo",
+        "selected": false
+    },
+    {
+        "name": "Soma Selects",
+        "id": "6gBiQQVylOmDjQYV8dsRSx",
+        "owner": "Soma Records",
+        "tracks_total": 100,
+        "uri": "spotify:playlist:6gBiQQVylOmDjQYV8dsRSx",
+        "selected": false
+    },
+    {
+        "name": "TRUESOUL",
+        "id": "5SGwgtHemF9IoDUomBioO8",
+        "owner": "Drumcode Records",
+        "tracks_total": 401,
+        "uri": "spotify:playlist:5SGwgtHemF9IoDUomBioO8",
+        "selected": false
+    },
+    {
+        "name": "Saved Records (House, Tech House, Techno)",
+        "id": "4hnjLt7Et09p0JG5itcyCs",
+        "owner": "Saved Records",
+        "tracks_total": 847,
+        "uri": "spotify:playlist:4hnjLt7Et09p0JG5itcyCs",
+        "selected": false
+    },
+    {
+        "name": "Random Setlist",
+        "id": "0pa3LlBDozg1i9C7a4pyLg",
+        "owner": "Jakobo",
+        "tracks_total": 26,
+        "uri": "spotify:playlist:0pa3LlBDozg1i9C7a4pyLg",
+        "selected": false
+    },
+    {
+        "name": "M\u00e4xle and Jakobo",
+        "id": "1MNlykrDrZvoDinnkOO8RH",
+        "owner": "Jakobo",
+        "tracks_total": 153,
+        "uri": "spotify:playlist:1MNlykrDrZvoDinnkOO8RH",
+        "selected": false
+    },
+    {
+        "name": "Cocoon Office Selection",
+        "id": "5aoy7TJ0cuDhsRtrkNXgps",
+        "owner": "Cocoon Recordings",
+        "tracks_total": 171,
+        "uri": "spotify:playlist:5aoy7TJ0cuDhsRtrkNXgps",
+        "selected": false
+    },
+    {
+        "name": "#othervibes",
+        "id": "43jeDPW9NdpO3xRjSRSCqT",
+        "owner": "RECALL",
+        "tracks_total": 16,
+        "uri": "spotify:playlist:43jeDPW9NdpO3xRjSRSCqT",
+        "selected": false
+    },
+    {
+        "name": "alter techno",
+        "id": "60UXygm8U63XE1AMf0BLsf",
+        "owner": "mundloberschmid",
+        "tracks_total": 395,
+        "uri": "spotify:playlist:60UXygm8U63XE1AMf0BLsf",
+        "selected": false
+    },
+    {
+        "name": "70er-90er Feier",
+        "id": "71knj7vYXqfgAGi9mQHGwa",
+        "owner": "YourDudeness",
+        "tracks_total": 116,
+        "uri": "spotify:playlist:71knj7vYXqfgAGi9mQHGwa",
+        "selected": false
+    },
+    {
+        "name": "Funk'n Soul",
+        "id": "5VGitsnyh9Srfefum9q0X4",
+        "owner": "YourDudeness",
+        "tracks_total": 63,
+        "uri": "spotify:playlist:5VGitsnyh9Srfefum9q0X4",
+        "selected": false
+    },
+    {
+        "name": "Setlist - Lost in the Alps",
+        "id": "4x9cMnG72AOd6LKzkXPkEQ",
+        "owner": "Jakobo",
+        "tracks_total": 138,
+        "uri": "spotify:playlist:4x9cMnG72AOd6LKzkXPkEQ",
+        "selected": false
+    },
+    {
+        "name": "Jonas du alter Friemler",
+        "id": "4eFZVG8IAHExg1sbSEoOPV",
+        "owner": "Jakobo",
+        "tracks_total": 15,
+        "uri": "spotify:playlist:4eFZVG8IAHExg1sbSEoOPV",
+        "selected": false
+    },
+    {
+        "name": "Osgut Ton - Essentials",
+        "id": "4FNsRobIP1c4wX4Xju5EyQ",
+        "owner": "Gary Kenez",
+        "tracks_total": 132,
+        "uri": "spotify:playlist:4FNsRobIP1c4wX4Xju5EyQ",
+        "selected": false
+    },
+    {
+        "name": "Choralmusik",
+        "id": "5YQDonD7xHtCSd65EuSqeA",
+        "owner": "Jakobo",
+        "tracks_total": 18,
+        "uri": "spotify:playlist:5YQDonD7xHtCSd65EuSqeA",
+        "selected": false
+    }
+]
